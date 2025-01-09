@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "beauty-product-recommendation"
+version = "0.1.0"
+description = ""
+authors = ["YASHBRO <yashjoglekar1220@gmail.com>"]
+readme = "README.md"
+
+packages = [{ include = "beauty_product_recommendation", from = "." }]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.2.1"
+pandas = "^2.2.3"
+nltk = "^3.9.1"
+scikit-learn = "^1.6.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
