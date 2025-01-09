@@ -1,0 +1,13 @@
+average_rating: <class 'float'>
+bought_together: <class 'NoneType'>
+categories: <class 'str'>
+description: <class 'str'>
+features: <class 'str'>
+images: <class 'str'>
+main_category: <class 'str'>
+parent_asin: <class 'str'>
+price: <class 'float'>
+rating_number: <class 'int'>
+store: <class 'str'>
+title: <class 'str'>
+videos: <class 'str'>

@@ -1,0 +1,10 @@
+asin: <class 'str'>
+helpful_vote: <class 'int'>
+images: <class 'list'>
+parent_asin: <class 'str'>
+rating: <class 'float'>
+text: <class 'str'>
+timestamp: <class 'int'>
+title: <class 'str'>
+user_id: <class 'str'>
+verified_purchase: <class 'bool'>
